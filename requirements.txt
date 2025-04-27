@@ -1,0 +1,4 @@
+inference-sdk==0.9.17 
+opencv-python==4.8.0.76
+matplotlib==3.7.2 
+numpy==1.24.3
