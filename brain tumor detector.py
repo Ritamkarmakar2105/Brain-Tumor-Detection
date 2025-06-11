@@ -12,7 +12,7 @@ OUTPUT_DIR = Path("detection_results")
 # Roboflow API setup
 CLIENT = InferenceHTTPClient(
     api_url="https://detect.roboflow.com",
-    api_key="RAO3qcOxTrwgNcnSGrMD"
+    api_key="Your Roboflow API key"
 )
 
 # Model ID
